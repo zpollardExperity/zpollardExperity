@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zachary Pollard (@zpollardExperity)
+👋 Hi, I’m Zachary Pollard (@zpollardExperity)
 
 📫 How to reach me 
 Personal Email: PollardZachary@outlook.com
