@@ -2,7 +2,9 @@
 
 📫 How to reach me
 
-Personal Email: PollardZachary@outlook.com
-Work Email: Zachary.Pollard@experityhealth.com
-Phone: 608-774-6441
+Work
+Email: Zachary.Pollard@experityhealth.com
 
+Personal
+Email: PollardZachary@outlook.com
+Phone: 608-774-6441
