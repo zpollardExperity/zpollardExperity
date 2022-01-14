@@ -1,7 +1,12 @@
-## Get to know me
+## Info
 __Name:__ Zachary Pollard
 
-__Username:__ @zpollardExperity
+__Position:__ Software Engineer II
+
+__Team:__ Threat Level Midnight
+
+__Product:__ Experity EMR
+
 ## 📫 How to reach me
 
 #### WORK
