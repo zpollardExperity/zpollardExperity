@@ -1,10 +1,13 @@
-👋 Hi, I’m Zachary Pollard (@zpollardExperity)
+## Get to know me
+__Name:__ Zachary Pollard
 
-📫 How to reach me
+__Username:__ @zpollardExperity
+## 📫 How to reach me
 
-Work
-Email: Zachary.Pollard@experityhealth.com
+#### WORK
+__Email:__ Zachary.Pollard@experityhealth.com
 
-Personal
-Email: PollardZachary@outlook.com
-Phone: 608-774-6441
+#### PERSONAL
+__Email:__ PollardZachary@outlook.com
+
+__Phone:__ 608-774-6441
